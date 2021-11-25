@@ -1,0 +1,8 @@
+{
+  "destinations": {
+    "01": { "name": "VANS", "latitude": 34.04539299637457, "longitude": 133.95197105659804, "elevation": 85 },
+    "02": { "name": "KANE", "latitude": 34.02792380674645, "longitude": 133.9478396881981, "elevation": 500 },
+    "03": { "name": "MIZU", "latitude": 33.99181831658056, "longitude": 133.96427725188735, "elevation": 1000 },
+    "04": { "name": "EAST", "latitude": 34.059463543815774, "longitude": 133.9296314472777, "elevation": 500 }
+  }
+}
